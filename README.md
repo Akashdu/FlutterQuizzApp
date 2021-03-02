@@ -5,6 +5,31 @@ It currently covers programming topics such as (i.e. TypeScript, Angular, Fireba
 changing the Firestore data for really any other types of quiz. Going with Flutter is a easy choice with its quick development time and fast execution times. 
 Firebase as the backend and storage solution makes it very easy to scale and change all the quiz subjects. The biggest challenge was getting the Oauth to work in Google services and Firebase login.
 
+# App Screen
+
+Home Screen
+1.Topics wise or category wise
+2.Pick Number of Questions
+3.Quiz Page / Questions page
+4.Text and Image-based Quiz
+5.Progress Indicator
+6.Results page with Chart
+7.Detailed Report for Quiz took
+8.Social Sharing for scores
+9.Admin Panel Screen
+
+# User Authentication / Admin login & Register
+1.Manage Questions (CRUD) with Tags
+2.Tags wise search
+3.Pagination
+4.Manage Topics / Categories
+5.Settings Page
+
+# Supported Platforms
+
+1.Android
+2.iOS
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

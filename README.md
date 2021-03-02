@@ -41,6 +41,7 @@ Home Screen
 # Supported Platforms
 
 1.Android
+
 2.iOS
 
 

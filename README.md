@@ -8,15 +8,24 @@ Firebase as the backend and storage solution makes it very easy to scale and cha
 # App Screen
 
 Home Screen
-1.Topics wise or category wise
-2.Pick Number of Questions
-3.Quiz Page / Questions page
-4.Text and Image-based Quiz
-5.Progress Indicator
-6.Results page with Chart
-7.Detailed Report for Quiz took
-8.Social Sharing for scores
-9.Admin Panel Screen
+
+Topics wise or category wise
+
+Pick Number of Questions
+
+Quiz Page / Questions page
+
+Text and Image-based Quiz
+
+Progress Indicator
+
+Results page with Chart
+
+Detailed Report for Quiz took
+
+Social Sharing for scores
+
+Admin Panel Screen
 
 # User Authentication / Admin login & Register
 1.Manage Questions (CRUD) with Tags

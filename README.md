@@ -1,9 +1,6 @@
 # Quiz-App
 
 A quiz app built using Flutter. 
-It currently covers programming topics such as (i.e. TypeScript, Angular, Firebase...) and others. Although the topics can be changed by 
-changing the Firestore data for really any other types of quiz. Going with Flutter is a easy choice with its quick development time and fast execution times. 
-Firebase as the backend and storage solution makes it very easy to scale and change all the quiz subjects. The biggest challenge was getting the Oauth to work in Google services and Firebase login.
 
 # App Screen
 

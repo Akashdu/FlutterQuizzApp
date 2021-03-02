@@ -56,7 +56,11 @@ $ flutter run
 * [Flutter](https://flutter.dev/) - The hybrid framework used.
 * [Dart](https://dart.dev/) - The language Flutter is written in.
 * [Firebase](https://firebase.google.com) - Cloud NoSQL database
+* 
 ![](https://media.giphy.com/media/dAKmxR9MN7zOhCyg9P/giphy.gif)
+
+
+
 
 
 For help getting started with Flutter, view our

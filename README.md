@@ -22,4 +22,8 @@ $ flutter run
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 
+Screenshots
+![image](https://user-images.githubusercontent.com/47060506/109670989-b0b81980-7b99-11eb-8a92-3bc048e11161.png)
+
+
 

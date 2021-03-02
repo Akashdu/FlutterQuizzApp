@@ -19,20 +19,7 @@ $ flutter run
 * [Flutter](https://flutter.dev/) - The hybrid framework used.
 * [Dart](https://dart.dev/) - The language Flutter is written in.
 * [Firebase](https://firebase.google.com) - Cloud NoSQL database
-
-![](https://media.giphy.com/media/dAKmxR9MN7zOhCyg9P/giphy.gif)
-
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Authors
 
-* **Yash Khade** - *Full Project* - [yhade](https://github.com/ykhade)
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* [Fireship.io](https://fireship.io/)

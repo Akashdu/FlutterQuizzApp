@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>786857021863-24p8ejfgo0jmo73qrvhch2vor2s9ss2a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.786857021863-24p8ejfgo0jmo73qrvhch2vor2s9ss2a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>786857021863-4adg3s0n2421g1l9v5qnbmdam87nar96.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	//TODO
+	<string>Google API Key</string>
+	<key>GCM_SENDER_ID</key>
+	<string>786857021863</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>dev.yk.quizapp</string>
+	<key>PROJECT_ID</key>
+	<string>yk-fireapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yk-fireapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:786857021863:ios:f316ee9b8ae64c38</string>
+	<key>DATABASE_URL</key>
+	<string>https://yk-fireapp.firebaseio.com</string>
+</dict>
+</plist>
